@@ -1,122 +1,188 @@
- <div align="center">
+&#x20;\<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+There!+%F0%9F%91%8B+I'm+Priyanka;Backend+Developer+%F0%9F%92%BB;Python+%7C+Django+%7C+SQL;Exploring+Generative+AI+%F0%9F%A4%96" alt="Typing SVG" />
+\<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=F0078A&center=true&vCenter=true&width=750&lines=Hey+there!+I](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=700\&size=30\&duration=3000\&pause=1000\&color=F0078A\&center=true\&vCenter=true\&width=750\&lines=Hey+there!+I)'m+Priyanka+%F0%9F%91%8B;Backend+Developer+%F0%9F%92%BB;Python+%7C+Django+%7C+SQL;Exploring+Generative+AI+%F0%9F%A4%96" />
 
-**Backend Developer | Python | Django | API Development | Deployment**
+\<img src="[https://img.shields.io/badge/BACKEND%20DEVELOPER-0D1117?style=for-the-badge&logo=github&logoColor=F0078A](https://img.shields.io/badge/BACKEND%20DEVELOPER-0D1117?style=for-the-badge\&logo=github\&logoColor=F0078A)"/>
+\<img src="[https://img.shields.io/badge/PYTHON%20%26%20DJANGO-0D1117?style=for-the-badge&logo=python&logoColor=3776AB](https://img.shields.io/badge/PYTHON%20%26%20DJANGO-0D1117?style=for-the-badge\&logo=python\&logoColor=3776AB)"/>
+\<img src="[https://img.shields.io/badge/GENERATIVE%20AI-0D1117?style=for-the-badge&logo=openai&logoColor=white](https://img.shields.io/badge/GENERATIVE%20AI-0D1117?style=for-the-badge\&logo=openai\&logoColor=white)"/>
 
-[![GitHub followers](https://img.shields.io/github/followers/Priyanka-ch-dev?style=social)](https://github.com/Priyanka-ch-dev)
-[![GitHub stars](https://img.shields.io/github/stars/Priyanka-ch-dev?style=social)](https://github.com/Priyanka-ch-dev)
+**Building ideas into real-world applications.**
 
-</div>
+[LinkedIn](https://www.linkedin.com/in/priyanka-ch-dev/) • [GitHub](https://github.com/Priyanka-ch-dev) • [Email](mailto\:priyankachannappahadapad@gmail.com)
 
----
-
-## 👩‍💻 About Me
-
-Hey! I'm **Priyanka**, a Software Developer passionate about building backend applications, developing REST APIs, and deploying real-world applications.
-
-- 🎓 B.E. in Electronics & Communication Engineering (2025)
-- 💼 Currently working as a Software Developer
-- 🐍 Backend development using Python and Django
-- 🔗 Interested in API development and database management
-- ☁️ Hands-on experience with application hosting and deployment
-- 🤖 Exploring Generative AI and intelligent applications
-- 🎯 Always learning, building and improving.
+\</div>
 
 ---
 
-## 💻 Tech Stack & Tools
+\<table>
+\<tr>
+\<td width="55%" valign="top">
 
-<div align="center">
+## ✨ About Me
 
-**Programming Languages**
+I'm **Priyanka**, a Software Developer who enjoys building backend systems, developing APIs and turning ideas into functional applications.
 
-<img src="https://skillicons.dev/icons?i=python,js" />
+🎓 B.E. – Electronics & Communication (2025)
 
-**Backend Development**
+💼 Software Developer
 
-<img src="https://skillicons.dev/icons?i=django" />
+🐍 Python & Django Developer
 
-**Database**
+☁️ Hosting & Deployment Experience
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+🤖 Exploring Generative AI
 
-**Frontend**
+🎯 Always learning. Always building.
 
-<img src="https://skillicons.dev/icons?i=html,css" />
+\</td>
+\<td width="45%" valign="top">
 
-**Hosting & Deployment**
+## 🎯 My Developer Journey
 
-<img src="https://skillicons.dev/icons?i=vercel,netlify" />
+```python
+developer = {
+    "name": "Priyanka",
+    "role": "Backend Developer",
+    "languages": [
+        "Python",
+        "JavaScript",
+        "SQL"
+    ],
+    "backend": [
+        "Django",
+        "DRF",
+        "REST APIs"
+    ],
+    "focus": [
+        "Backend Engineering",
+        "Generative AI"
+    ],
+    "mindset": "Never Stop Learning"
+}
+```
 
-<a href="https://www.hostinger.com/">
-<img src="https://img.shields.io/badge/Hostinger-Hosting-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" />
-</a>
+\</td>
+\</tr>
+\</table>
 
-**Developer Tools**
+## ⚡ Tech Arsenal
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+\<div align="center">
 
-</div>
+|    CATEGORY   | TECHNOLOGIES                                                                                                                        |
+| :-----------: | :---------------------------------------------------------------------------------------------------------------------------------- |
+| **Languages** | \<img src="[https://skillicons.dev/icons?i=python,js](https://skillicons.dev/icons?i=python,js)" />                                 |
+|  **Backend**  | \<img src="[https://skillicons.dev/icons?i=django](https://skillicons.dev/icons?i=django)" />                                       |
+|  **Database** | \<img src="[https://skillicons.dev/icons?i=postgres,mysql](https://skillicons.dev/icons?i=postgres,mysql)" />                       |
+|  **Frontend** | \<img src="[https://skillicons.dev/icons?i=html,css](https://skillicons.dev/icons?i=html,css)" />                                   |
+|  **Hosting**  | \<img src="[https://skillicons.dev/icons?i=vercel,netlify](https://skillicons.dev/icons?i=vercel,netlify)" />                       |
+|   **Tools**   | \<img src="[https://skillicons.dev/icons?i=git,github,vscode,postman](https://skillicons.dev/icons?i=git,github,vscode,postman)" /> |
 
----
+\<img src="[https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white](https://img.shields.io/badge/Hostinger-673DE6?style=flat-square\&logo=hostinger\&logoColor=white)"/>
 
-## ☁️ Hosting & Deployment Experience
-
-- 🚀 Deploying web applications using Vercel.
-- 🌐 Hosting and managing websites using Netlify.
-- 🖥️ Working with Hostinger hosting services.
-- ⚙️ Configuring deployment environments and environment variables.
-- 🔧 Troubleshooting hosting and deployment issues.
-
----
-
-## 🚀 What I'm Up To
-
-- 🔨 Building backend applications using Python and Django.
-- 🔗 Developing REST APIs and database-driven systems.
-- ☁️ Exploring deployment and production hosting workflows.
-- 🤖 Exploring Generative AI and its real-world applications.
-- 📚 Strengthening problem-solving and DSA fundamentals.
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Priyanka-ch-dev&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanka-ch-dev&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img width="65%" src="https://streak-stats.demolab.com?user=Priyanka-ch-dev&theme=tokyonight&hide_border=true" />
-
-</div>
+\</div>
 
 ---
 
-## 🤝 Let's Connect
+## 🚀 What I Build
 
-<div align="center">
+\<table>
+\<tr>
+\<td width="50%" valign="top">
 
-<a href="https://www.linkedin.com/in/priyanka-ch-dev/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+### ⚙️ Backend Engineering
 
-<a href="https://github.com/Priyanka-ch-dev">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+- Django applications
+- REST API development
+- Authentication & authorization
+- Database-driven systems
 
-<a href="mailto:priyankachannappahadapad@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+\</td>
+\<td width="50%" valign="top">
 
-<br/><br/>
+### ☁️ Deployment & Hosting
 
-### ✨ "Code. Learn. Build. Deploy. Repeat."
+- Vercel deployment
+- Netlify hosting
+- Hostinger hosting
+- Environment configuration
+- Deployment troubleshooting
 
-*Every contribution is a step forward.*
+\</td>
+\</tr>
+\<tr>
+\<td width="50%" valign="top">
 
-</div>
+### 🤖 Exploring AI
+
+- Generative AI
+- Intelligent applications
+- Python-based AI development
+
+\</td>
+\<td width="50%" valign="top">
+
+### 🧠 Continuous Growth
+
+- Data Structures & Algorithms
+- Problem solving
+- Backend architecture
+- Clean code practices
+
+\</td>
+\</tr>
+\</table>
+
+---
+
+## 📊 GitHub Command Center
+
+\<div align="center">
+
+\<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=Priyanka-ch-dev&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=Priyanka-ch-dev\&show_icons=true\&theme=tokyonight\&hide_border=true)"/>
+
+\<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanka-ch-dev&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanka-ch-dev\&layout=compact\&theme=tokyonight\&hide_border=true)"/>
+
+\<br/>
+
+\<img width="70%" src="[https://streak-stats.demolab.com?user=Priyanka-ch-dev&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=Priyanka-ch-dev\&theme=tokyonight\&hide_border=true)"/>
+
+\</div>
+
+---
+
+## 🐍 Contribution Journey
+
+\<div align="center">
+
+\<img src="[https://raw.githubusercontent.com/Priyanka-ch-dev/Priyanka-ch-dev/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/Priyanka-ch-dev/Priyanka-ch-dev/output/github-contribution-grid-snake-dark.svg)" alt="Contribution Snake"/>
+
+\</div>
+
+---
+
+## 🌐 Find Me Around The Web
+
+\<div align="center">
+
+\<a href="[https://www.linkedin.com/in/priyanka-ch-dev/](https://www.linkedin.com/in/priyanka-ch-dev/)">
+\<img src="[https://img.shields.io/badge/LinkedIn-Follow_My_Journey-0A66C2?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-Follow_My_Journey-0A66C2?style=for-the-badge\&logo=linkedin)"/>
+\</a>
+
+\<a href="[https://github.com/Priyanka-ch-dev](https://github.com/Priyanka-ch-dev)">
+\<img src="[https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge\&logo=github)"/>
+\</a>
+
+\<a href="mailto\:priyankachannappahadapad\@gmail.com">
+\<img src="[https://img.shields.io/badge/Gmail-Let](https://img.shields.io/badge/Gmail-Let)'s_Connect-EA4335?style=for-the-badge&logo=gmail"/>
+\</a>
+
+\<br/>\<br/>
+
+### 💜 Code. Learn. Build. Deploy. Repeat.
+
+*Creating today. Improving tomorrow.*
+
+\<img src="[https://capsule-render.vercel.app/api?type=waving&color=F0078A&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=F0078A\&height=100\&section=footer)"/>
+
+\</div>
