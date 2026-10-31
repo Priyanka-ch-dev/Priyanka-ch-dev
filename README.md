@@ -1,4 +1,4 @@
-&#x20;\<div align="center">
+<div align="center">
 
 \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=F0078A&center=true&vCenter=true&width=750&lines=Hey+there!+I](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=700\&size=30\&duration=3000\&pause=1000\&color=F0078A\&center=true\&vCenter=true\&width=750\&lines=Hey+there!+I)'m+Priyanka+%F0%9F%91%8B;Backend+Developer+%F0%9F%92%BB;Python+%7C+Django+%7C+SQL;Exploring+Generative+AI+%F0%9F%A4%96" />
 
