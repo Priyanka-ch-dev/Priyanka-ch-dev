@@ -65,7 +65,7 @@ I'm a passionate Software Developer interested in building scalable backend appl
 
 - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/priyanka-ch-dev/))
 - 🐙 GitHub: [Explore my repositories](https://github.com/Priyanka-ch-dev)
-- 
+- 📧 Email: priyankachannappahadapad@gmail.com
 
 ---
 
